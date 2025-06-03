@@ -74077,7 +74077,7 @@ function YT(e) {
   });
 }
 const hFt = "@pradella/learningstudioai-react",
-  gFt = "0.6.8",
+  gFt = "1.0",
   vFt = "Course Player package",
   mFt = "MIT",
   yFt = "Mauricio Pradella",
